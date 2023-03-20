@@ -1,0 +1,28 @@
+.mother {
+  display: flex;
+  justify-content: center;
+}
+.child {
+  box-shadow: 2px 2px 4px rgb(192, 156, 156);
+}
+.aboutYourself {
+  width: 500px;
+  padding: 10px;
+}
+.about {
+  background-color: rgb(133, 121, 121);
+  padding: 10px;
+  box-shadow: 2px 2px 4px rgb(46, 26, 26);
+  border-radius: 10px;
+}
+
+.name {
+  background-color: blueviolet;
+  margin-top: 15px;
+  padding: 10px;
+  box-shadow: 2px 2px 4px rgb(46, 26, 26);
+  border-radius: 10px;
+}
+button {
+  cursor: pointer;
+}
